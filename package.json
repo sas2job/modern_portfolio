@@ -9,6 +9,7 @@
   "author": "Aleksandr Smirnov",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.9.3",
+    "npm": "^6.4.0"
   }
 }
