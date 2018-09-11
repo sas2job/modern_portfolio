@@ -14,11 +14,9 @@ function toggleMenu() {
   if (!showMenu) {
     menuBtn.classList.add('close');
     menu.classList.add('show');
-    console.log('menu');
     menuNav.classList.add('show');
     menuBranding.classList.add('show');
     navItems.forEach(item => item.classList.add('show'));
-    console.log('item');
 
     // Set Menu State
     showMenu = true;
